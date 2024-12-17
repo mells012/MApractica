@@ -1,0 +1,6 @@
+@MAclaseAPI_HostAddress = http://localhost:5179
+
+GET {{MAclaseAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
